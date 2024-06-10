@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v11", "changes is natural, accept it. ")
+prit("Wassup Buddy!! v11", "changes is natural, accept it. ")
